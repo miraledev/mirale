@@ -1,6 +1,6 @@
 # mirale
 
-<h3 align="center">lames = sf goda</h3>
+<h3 align="center">lames = sf god</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miraledev&label=Profile%20views&color=0e75b6&style=flat" alt="miraledev" /> </p>
 
