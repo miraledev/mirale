@@ -2,7 +2,7 @@
 
 # Welcome to the profile fam
 
-I make stuff mostly in javascript, beginner programmer.
+I make stuff mostly in javascript when im bored
 
 ### Languages mostly used
 
